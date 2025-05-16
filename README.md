@@ -4,7 +4,8 @@ PhotoHire is a web application that allows users to hire professional photograph
 
 ---
 
-## 🔑 Features
+## 🔑 Features![home_page](https://github.com/user-attachments/assets/49c3a7e4-a127-452b-bcd5-764bbf7ca349)
+
 
 - 📷 Hire skilled photographers for events or projects  
 - 🧑‍💼 Join as a photographer and showcase your portfolio  
